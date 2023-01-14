@@ -1,6 +1,6 @@
 <h1 align="center"><strong>tmichel-</strong></h1>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/stats?cursusId=21&coalitionId=46" alt="tmichel-'s 42 stats" /></a>
+<h1 align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/stats?cursusId=21&coalitionId=46" alt="tmichel-'s 42 stats" /></a>
 
 <h1 align="center">42 Projects:</h1>
 <h1 align="center">
