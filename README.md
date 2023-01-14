@@ -8,7 +8,7 @@
   
   |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
-[libft] | Your very first own library | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/project/2868857" alt="tmichel-'s 42 Libft Score" /></a> |
+[libft] | Your very first own library | https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/project/2868857 |
   ## Rank 1
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
