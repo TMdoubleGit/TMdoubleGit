@@ -18,8 +18,7 @@
   ## Rank 2
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|                                                                                                                                 [push_swap] | Because Swap_push isn’t as natural | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/project/2916942" alt="tmichel-'s 42 push_swap Score" /></a> |
-  [pipex] | This project will let you discover in detail a UNIX mechanism that you already know
-by using it in your program. |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/project/2925839" alt="tmichel-'s 42 pipex Score" /></a> |
-  
-<hr>
+  [pipex] | Discovery of a UNIX mechanism |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/project/2925839" alt="tmichel-'s 42 pipex Score" /></a> |
+  <hr>
+ 
 <p align="right"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
