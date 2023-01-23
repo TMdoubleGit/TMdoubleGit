@@ -20,6 +20,7 @@
 |:---------------:|:-----------:|:----:|
  [push_swap] | Because Swap_push isn’t as natural | [![tmichel-'s 42 push_swap Score](https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/project/2916942)](https://github.com/JaeSeoKim/badge42) |
  [pipex] | Discovery of a UNIX mechanism | [![tmichel-'s 42 pipex Score](https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/project/2925839)](https://github.com/JaeSeoKim/badge42) |
-  <hr>
+ [fract-ol] | This project is about creating graphically beautiful fractals | [![tmichel-'s 42 fract-ol Score](https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/project/2941602)](https://github.com/JaeSeoKim/badge42) |
+ <hr>
  
 <p align="right"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
