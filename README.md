@@ -14,7 +14,7 @@
 |:---------------:|:-----------:|:----:|
   [get_next_line] | Reading a line from a fd is way too tedious | [![tmichel-'s 42 get_next_line Score](https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/project/2892883)](https://github.com/TMdoubleGit/get_next_line) |
   [printf] | Because ft_putnbr() and ft_putstr() aren’t enough | [![tmichel-'s 42 ft_printf Score](https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/project/2892897)](https://github.com/TMdoubleGit/printf) |
-  [born2beroot] | You can do anything you want to do, this is your world | [![tmichel-'s 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/project/2892898)]|
+  [born2beroot] | You can do anything you want to do, this is your world | ![tmichel-'s 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clceyzt4k00060fl71vwvfajz/project/2892898)|
   ## Rank 2
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
